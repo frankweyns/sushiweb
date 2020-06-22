@@ -4,6 +4,7 @@ FROM alpine
 #   Http server installation   #
 # ---------------------------- #
 
+
 RUN	apk add --no-cache apache2
 
 # ---------------------- #
